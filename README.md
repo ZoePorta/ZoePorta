@@ -30,6 +30,7 @@ Puedes echar un vistazo a todos mis repositorios [aquí](https://github.com/ZoeP
     [![MySQL](https://img.shields.io/badge/MySQL-%23005C84.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 *   **Otras Tecnologías:**
+
      [![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
     [![API REST](https://img.shields.io/badge/API--REST-%23EA7A0C?style=for-the-badge&logoColor=white&labelColor=%231E1F29)](https://en.wikipedia.org/wiki/Representational_state_transfer)
     [![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
