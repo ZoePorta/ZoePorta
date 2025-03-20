@@ -42,6 +42,7 @@ Puedes echar un vistazo a todos mis repositorios [aquí](https://github.com/ZoeP
     [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/)
     [![Unity](https://img.shields.io/badge/Unity-%23222c37.svg?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
     [![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+    [![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
 
 
    
