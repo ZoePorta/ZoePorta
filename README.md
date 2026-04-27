@@ -11,7 +11,7 @@ Frontend developer with 4+ years reviewing architectures, spotting technical deb
 
 - Wrapping up my **Master's in AI-Assisted Development** — Big School / Univ. Isabel I
 - Deepening my knowledge in `AI-assisted development` and `Prompt Engineering`
-- Finishing up **[Wishin](https://wishin.es)** and actively looking for my first dev role
+- Finishing up **[Wishin](https://wishin.es)** and actively looking for next challenge
 - Open to collaborating on projects with clear structure and defined goals
 
 ## Tech Stack 🛠️
