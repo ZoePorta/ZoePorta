@@ -5,14 +5,16 @@
 
 *I build things as solid underneath as beautiful on the surface.*
 
-Frontend developer with 4+ years reviewing architectures, spotting technical debt and building projects that work well on the inside and look better on the outside. I use AI as a tool, not a replacement.
+Software Engineer with 4+ years auditing architectures, tackling technical debt, and building software that works cleanly on the inside and shines on the outside. I use AI as a tool, not a replacement.
 
 ## Currently 🔭
 
-- Wrapping up my **Master's in AI-Assisted Development** — Big School / Univ. Isabel I
-- Deepening my knowledge in `AI-assisted development` and `Prompt Engineering`
-- Finishing up **[Wishin](https://wishin.es)** and actively looking for next challenge
-- Open to collaborating on projects with clear structure and defined goals
+- 🚀 Actively looking for my next challenge as a **Software Engineer** with a strong focus on **Frontend & UI Engineering**
+- 🛠️ Maintaining **[Wishin](https://wishin.es)** and polishing its production features
+- 📚 Continuous Learning & Specialization:
+  - [x] **Master's in AI Assisted Development** — Big School / Univ. Isabel I (2026)
+  - [ ] **Comprehensive Figma for UI/UX Designers** — *In Progress*
+  - [ ] **Claude Code in Action** — *Up Next*
 
 ## Tech Stack 🛠️
 
